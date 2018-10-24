@@ -1,0 +1,8 @@
+C:\Users\Cory\Desktop\Code things\OpenWeatherMapTemperature\OpenWeatherMapTemperature\bin\Debug\netcoreapp2.1\OpenWeatherMapTemperature.deps.json
+C:\Users\Cory\Desktop\Code things\OpenWeatherMapTemperature\OpenWeatherMapTemperature\bin\Debug\netcoreapp2.1\OpenWeatherMapTemperature.runtimeconfig.json
+C:\Users\Cory\Desktop\Code things\OpenWeatherMapTemperature\OpenWeatherMapTemperature\bin\Debug\netcoreapp2.1\OpenWeatherMapTemperature.runtimeconfig.dev.json
+C:\Users\Cory\Desktop\Code things\OpenWeatherMapTemperature\OpenWeatherMapTemperature\bin\Debug\netcoreapp2.1\OpenWeatherMapTemperature.dll
+C:\Users\Cory\Desktop\Code things\OpenWeatherMapTemperature\OpenWeatherMapTemperature\obj\Debug\netcoreapp2.1\OpenWeatherMapTemperature.csprojAssemblyReference.cache
+C:\Users\Cory\Desktop\Code things\OpenWeatherMapTemperature\OpenWeatherMapTemperature\obj\Debug\netcoreapp2.1\OpenWeatherMapTemperature.csproj.CoreCompileInputs.cache
+C:\Users\Cory\Desktop\Code things\OpenWeatherMapTemperature\OpenWeatherMapTemperature\obj\Debug\netcoreapp2.1\OpenWeatherMapTemperature.AssemblyInfoInputs.cache
+C:\Users\Cory\Desktop\Code things\OpenWeatherMapTemperature\OpenWeatherMapTemperature\obj\Debug\netcoreapp2.1\OpenWeatherMapTemperature.AssemblyInfo.cs
